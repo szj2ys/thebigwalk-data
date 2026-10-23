@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://szj2ys.github.io/thebigwalk-data/sitemap.xml

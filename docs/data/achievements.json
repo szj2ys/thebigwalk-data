@@ -1,0 +1,98 @@
+[
+  {
+    "apiName": "Drawbridge",
+    "name": "Big Walk",
+    "description": "Cross the drawbridge",
+    "completionPercent": 87.5,
+    "tower": "opening",
+    "tutorialId": "drawbridge"
+  },
+  {
+    "apiName": "Map",
+    "name": "Big View",
+    "description": "Visit the map",
+    "completionPercent": 65.3,
+    "tower": "red",
+    "tutorialId": "map-room"
+  },
+  {
+    "apiName": "Backpack",
+    "name": "Big Pack",
+    "description": "Wear a backpack",
+    "completionPercent": 57.8,
+    "tower": "system",
+    "tutorialId": null
+  },
+  {
+    "apiName": "Chairlift",
+    "name": "Big Sit",
+    "description": "Ride the chairlift",
+    "completionPercent": 45.5,
+    "tower": "green",
+    "tutorialId": "green-crane-drop"
+  },
+  {
+    "apiName": "Train",
+    "name": "Big Ride",
+    "description": "Ride the train",
+    "completionPercent": 39.4,
+    "tower": "blue",
+    "tutorialId": "blue-heavy-ball"
+  },
+  {
+    "apiName": "Holster",
+    "name": "Big Help",
+    "description": "Wear something on your hip",
+    "completionPercent": 37.6,
+    "tower": "system",
+    "tutorialId": null
+  },
+  {
+    "apiName": "Tunnel",
+    "name": "Big Tunnel",
+    "description": "Enter a big tunnel",
+    "completionPercent": 32,
+    "tower": "yellow",
+    "tutorialId": "yellow-microphone-box"
+  },
+  {
+    "apiName": "Peak",
+    "name": "Big Climb",
+    "description": "Reach the highest point",
+    "completionPercent": 30,
+    "tower": "system",
+    "tutorialId": null
+  },
+  {
+    "apiName": "Wall",
+    "name": "Big Wall",
+    "description": "Go beyond the wall",
+    "completionPercent": 22.3,
+    "tower": "black",
+    "tutorialId": "black-tower"
+  },
+  {
+    "apiName": "Ending1",
+    "name": "Big Goodbye",
+    "description": null,
+    "completionPercent": 21.3,
+    "tower": "black",
+    "tutorialId": "black-tower"
+  },
+  {
+    "apiName": "Shiny",
+    "name": "Big Makeover",
+    "description": "Get shiny",
+    "completionPercent": 10.5,
+    "tower": "endgame",
+    "tutorialId": "purple-seven"
+  },
+  {
+    "apiName": "Ending2",
+    "name": "Big Game",
+    "description": null,
+    "completionPercent": 7.1,
+    "tower": "endgame",
+    "tutorialId": "endings"
+  }
+]

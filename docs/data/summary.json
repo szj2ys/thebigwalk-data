@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-10-24",
+  "puzzleCount": 37,
+  "achievementCount": 12,
+  "timedTowerEntries": 31,
+  "achievementsCollectedAt": "2026-09-30",
+  "towerCounts": {
+    "opening": 1,
+    "red": 7,
+    "green": 8,
+    "yellow": 7,
+    "blue": 5,
+    "black": 4,
+    "endgame": 2,
+    "system": 3
+  },
+  "homepage": "https://thebigwalk.world/en",
+  "targetPages": [
+    "https://thebigwalk.world/en/puzzles",
+    "https://thebigwalk.world/en/map",
+    "https://thebigwalk.world/en/achievements"
+  ]
+}
